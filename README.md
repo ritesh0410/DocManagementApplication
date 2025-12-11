@@ -23,6 +23,8 @@ CORS enabled for React frontend
 
 Clean REST API architecture
 
+<br> <br>
+
 🛠️ Tech Stack
 Backend (Spring Boot)
 
@@ -43,8 +45,10 @@ Frontend
 React + Axios
 
 Vite (Dev Server)
+<br>
 
 📁 Project Structure (Backend)
+<br> <br>
 src/main/java/com/IndraSoftech/DocManagementApplication
 │
 ├── controller
